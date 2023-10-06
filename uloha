@@ -1,1 +1,23 @@
-# kukyysk.github.io
+
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this template
+-->
+<html>
+    <head>
+        <link href="index.css" rel="stylesheet" type="text/css">
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <h1>toto je moja homepage</h1>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Nullam sit amet magna in magna gravida vehicula. Praesent id justo in neque elementum ultrices. Aenean id metus id velit ullamcorper pulvinar. Maecenas lorem. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo. Suspendisse sagittis ultrices augue. Aliquam ante. Maecenas lorem. Fusce tellus. Aliquam erat volutpat.</p>
+        <h2>toto je druha uroven</h2>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Nullam sit amet magna in magna gravida vehicula. Praesent id justo in neque elementum ultrices. Aenean id metus id velit ullamcorper pulvinar. Maecenas lorem. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo. Suspendisse sagittis ultrices augue. Aliquam ante. Maecenas lorem. Fusce tellus. Aliquam erat volutpat.</p>
+        <h3>toto je tretia uroven</h3>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Nullam sit amet magna in magna gravida vehicula. Praesent id justo in neque elementum ultrices. Aenean id metus id velit ullamcorper pulvinar. Maecenas lorem. Proin pede metus, vulputate nec, fermentum fringilla, vehicula vitae, justo. Suspendisse sagittis ultrices augue. Aliquam ante. Maecenas lorem. Fusce tellus. Aliquam erat volutpat.</p>
+        
+    </body>
+</html>
